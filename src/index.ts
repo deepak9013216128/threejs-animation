@@ -18,7 +18,7 @@ resize.start(renderer);
 
 // ========================= controller ===============================
 // SphereController();
-WireframeController(false);
+WireframeController(true);
 
 // ==============================================================================
 
